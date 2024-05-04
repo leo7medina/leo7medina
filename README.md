@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi world, I'm Leonardo 👋
 
-<!--
-**leo7medina/leo7medina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  Full Stack Software Developer
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
+
+- 💡 I like to explore new technologies and develop software solutions and quick hacks.
+- 🔭 I am Working on multiple personal projects, both frontend and backend, using Angular and Springboot.
+- 🌱 Learning design patterns in depth.
+- 📚 I’m learning Advanced React Native, Node.js, React, Golang, Kotlin and Swift..
+
+<!-- <p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Tranbajando en multiples proyectos frontend y backend usando
+- 🌱 Aprender patrones de diseño en profundidad.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
